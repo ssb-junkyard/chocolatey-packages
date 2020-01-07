@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata> 
+    <id>patchwork</id>
+    <version>3.72.2</version>
+    <title>patchwork (Install)</title>
+    <authors>Secure Scuttlebut Consortium</authors>
+    <projectUrl>https://github.com/ssbc/patchwork</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/ssbc/patchwork/master/assets/icon.png</iconUrl>
+    <licenseUrl>https://github.com/ssbc/patchwork/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/ssbc/patchwork/</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/ssbc/patchwork/issues</bugTrackerUrl>
+    <tags>patchwork SSB SecureScuttlebutt Decentralization p2p</tags>
+    <summary>A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).</summary>
+    <description>A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
