@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata> 
     <id>patchwork</id>
-    <version>3.72.2</version>
+    <version>3.17.2</version>
     <title>patchwork (Install)</title>
     <authors>Secure Scuttlebut Consortium</authors>
     <projectUrl>https://github.com/ssbc/patchwork</projectUrl>
